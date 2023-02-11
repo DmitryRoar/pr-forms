@@ -1,0 +1,11 @@
+C:\Users\blaki\OneDrive\Рабочий стол\hw\пп\pp-forms\forms\pr30\Form30\Form30\bin\Debug\Form30.exe.config
+C:\Users\blaki\OneDrive\Рабочий стол\hw\пп\pp-forms\forms\pr30\Form30\Form30\bin\Debug\Form30.exe
+C:\Users\blaki\OneDrive\Рабочий стол\hw\пп\pp-forms\forms\pr30\Form30\Form30\bin\Debug\Form30.pdb
+C:\Users\blaki\OneDrive\Рабочий стол\hw\пп\pp-forms\forms\pr30\Form30\Form30\obj\Debug\Form30.csproj.AssemblyReference.cache
+C:\Users\blaki\OneDrive\Рабочий стол\hw\пп\pp-forms\forms\pr30\Form30\Form30\obj\Debug\Form30.csproj.SuggestedBindingRedirects.cache
+C:\Users\blaki\OneDrive\Рабочий стол\hw\пп\pp-forms\forms\pr30\Form30\Form30\obj\Debug\Form30.Properties.Resources.resources
+C:\Users\blaki\OneDrive\Рабочий стол\hw\пп\pp-forms\forms\pr30\Form30\Form30\obj\Debug\Form30.csproj.GenerateResource.cache
+C:\Users\blaki\OneDrive\Рабочий стол\hw\пп\pp-forms\forms\pr30\Form30\Form30\obj\Debug\Form30.csproj.CoreCompileInputs.cache
+C:\Users\blaki\OneDrive\Рабочий стол\hw\пп\pp-forms\forms\pr30\Form30\Form30\obj\Debug\Form30.exe
+C:\Users\blaki\OneDrive\Рабочий стол\hw\пп\pp-forms\forms\pr30\Form30\Form30\obj\Debug\Form30.pdb
+C:\Users\blaki\OneDrive\Рабочий стол\hw\пп\pp-forms\forms\pr30\Form30\Form30\obj\Debug\Form30.Fine.resources

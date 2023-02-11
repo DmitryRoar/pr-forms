@@ -1,0 +1,11 @@
+C:\Users\blaki\OneDrive\Рабочий стол\pp-actial\forms\pr28\FormApp\FormApp\bin\Debug\FormApp.exe.config
+C:\Users\blaki\OneDrive\Рабочий стол\pp-actial\forms\pr28\FormApp\FormApp\bin\Debug\FormApp.exe
+C:\Users\blaki\OneDrive\Рабочий стол\pp-actial\forms\pr28\FormApp\FormApp\bin\Debug\FormApp.pdb
+C:\Users\blaki\OneDrive\Рабочий стол\pp-actial\forms\pr28\FormApp\FormApp\obj\Debug\FormApp.csproj.AssemblyReference.cache
+C:\Users\blaki\OneDrive\Рабочий стол\pp-actial\forms\pr28\FormApp\FormApp\obj\Debug\FormApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\blaki\OneDrive\Рабочий стол\pp-actial\forms\pr28\FormApp\FormApp\obj\Debug\FormApp.Form1.resources
+C:\Users\blaki\OneDrive\Рабочий стол\pp-actial\forms\pr28\FormApp\FormApp\obj\Debug\FormApp.Properties.Resources.resources
+C:\Users\blaki\OneDrive\Рабочий стол\pp-actial\forms\pr28\FormApp\FormApp\obj\Debug\FormApp.csproj.GenerateResource.cache
+C:\Users\blaki\OneDrive\Рабочий стол\pp-actial\forms\pr28\FormApp\FormApp\obj\Debug\FormApp.csproj.CoreCompileInputs.cache
+C:\Users\blaki\OneDrive\Рабочий стол\pp-actial\forms\pr28\FormApp\FormApp\obj\Debug\FormApp.exe
+C:\Users\blaki\OneDrive\Рабочий стол\pp-actial\forms\pr28\FormApp\FormApp\obj\Debug\FormApp.pdb
